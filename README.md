@@ -10,3 +10,4 @@ We added a prod branch.
 
 test done
 Autobuild trigger on 2nd March 2021.
+Tested file auto load
